@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(img/fundo.png);
+}
+
+header {
+    background-color: black;
+}
+
+a {
+    color: white;
+    margin: 5px;
+}
